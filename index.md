@@ -1,5 +1,5 @@
 ﻿# A Robot that Uses Computer Vision to Track a Ball
-My Project is a robot that can track a ball using computer vision. My projects main components include a rapsberry pi, 4 motors, a motor driver, an ultra sonic sensor, and a battery pack. I uploaded code to the rapberry Pi that would tell the ultra sonic sensor to track the ball, and according to the information from the senspr it would then tell the motors to move accordingly.
+My Project is a robot that can track a ball using computer vision. My projects main components include a rapsberry pi, 4 motors, a motor driver, an ultra sonic sensor, and a battery pack. I uploaded code to the rapberry Pi that would tell the ultra sonic sensor to track the ball, and according to the information from the sensor it would then tell the motors to move accordingly.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
