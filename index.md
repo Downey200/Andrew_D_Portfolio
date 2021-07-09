@@ -3,7 +3,7 @@ My Project is a robot that can track a ball using computer vision. My projects m
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Andrew Downey | Trevor Day School | Idk | Incoming Junior
+| Andrew D | Trevor Day School | Engineering | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
