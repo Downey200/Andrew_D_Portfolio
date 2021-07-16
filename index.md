@@ -20,4 +20,11 @@ Work in Progress
 # First Milestone 
 For my first milestone I assembled the chasse and attached the motors and wheels. Next I setup my raspberry pi so I could add code to it whenever I wanted. Then I wired the motors to connect to the motor driver. Then I wired the Raspberry Pi so that it was connected to the motor driver. I had to take a apart and re-assemble my chasse twice because I did not follow the directions carefully both times. I learned from these mistakes and have not experienced any difficultly since then.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone]![2021-07-16 (2)](https://user-images.githubusercontent.com/87190446/125967798-c3f895b8-fb66-4229-9492-97cf6e04cb46.png)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+
+
+
+
+
+
+
