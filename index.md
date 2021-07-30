@@ -1,5 +1,5 @@
-﻿# A Robot that Uses Computer Vision to Track a Ball
-My Project is a robot that can track a ball using computer vision. My projects main components include a rapsberry pi, 4 motors, a motor driver, an ultra sonic sensor, and a battery pack. I uploaded code to the rapberry Pi that would tell the ultra sonic sensor to track the ball, and according to the information from the sensor it would then tell the motors to move accordingly.
+﻿# Game Design in Unity
+My Project is to create a game using a game engone called unity. I am going to create a 3D platformer game using blender and Unity. I created the character and animations for it in blender and then uploaded them into unity. Then I created the platforms in unity that my character would be jumping on. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -18,8 +18,7 @@ Work in Progress
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone 
-For my first milestone I assembled the chasse and attached the motors and wheels. Next I setup my raspberry pi so I could add code to it whenever I wanted. Then I wired the motors to connect to the motor driver. Then I wired the Raspberry Pi so that it was connected to the motor driver. I had to take a apart and re-assemble my chasse twice because I did not follow the directions carefully both times. I learned from these mistakes and have not experienced any difficultly since then.
-
+For my first milestone I went into blender and made a 3d mesh that resembled a character. Next I setup the mesh so it was attached to a rig that would allow me to animate the mesh. Then I made animations of the character running and jumping. Then I imported the character into Unity and made it so the player could control the character with the wasd keys.
 [![First Milestone]![2021-07-16 (2)](https://user-images.githubusercontent.com/87190446/125967798-c3f895b8-fb66-4229-9492-97cf6e04cb46.png)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
 
