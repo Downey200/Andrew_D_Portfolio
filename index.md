@@ -18,12 +18,5 @@ Work in Progress
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone 
-For my first milestone I went into blender and made a 3d mesh that resembled a character. Next I setup the mesh so it was attached to a rig that would allow me to animate the mesh. Then I made animations of the character running and jumping. Then I imported the character into Unity and made it so the player could control the character with the wasd keys.
-[![First Milestone]![2021-07-16 (2)](https://user-images.githubusercontent.com/87190446/125967798-c3f895b8-fb66-4229-9492-97cf6e04cb46.png)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
-
-
-
-
-
-
-
+For my first milestone I went into blender and made a 3d mesh that resembled a character. Next I setup the mesh so it was attached to a rig that would allow me to animate the mesh. Then I made animations of the character running and jumping. Then I imported the character into Unity and made it so the player could control the character with the wasd keys. I also added gravity so the character would not be walking on air.
+[![First Milestone]![Milestone 1 gif](https://user-images.githubusercontent.com/87190446/128534754-52e9281e-41b7-4409-b12f-c937d0700579.gif){:target="_blank" rel="noopener"}
