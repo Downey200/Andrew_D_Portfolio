@@ -5,7 +5,7 @@ My Project is to create a game using a game engone called unity. I am going to c
 |:--:|:--:|:--:|:--:|
 | Andrew D | Trevor Day School | Engineering | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]()
   
 # Final Milestone
 Work in Progress 
