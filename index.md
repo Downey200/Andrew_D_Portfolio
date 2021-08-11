@@ -10,13 +10,13 @@ My Project is to create a game using a game engone called unity. I am going to c
 # Final Milestone
 Work in Progress 
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone]   {:target="_blank" rel="noopener"}
 
 # Second Milestone
-Work in Progress 
+I imported the animation files and character from blender into Unity. I then opened a C# script and coded the character to be able to move fowards and backwards with the W and S keys. I then coded in gravity so the character would not be walking on air. Then I added so the player could rotate the character using their mouse. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone]   {:target="_blank" rel="noopener"}
 
 # First Milestone 
-For my first milestone I went into blender and made a 3d mesh that resembled a character. Next I setup the mesh so it was attached to a rig that would allow me to animate the mesh. Then I made animations of the character running and jumping. Then I imported the character into Unity and made it so the player could control the character with the wasd keys. I also added gravity so the character would not be walking on air.
+For my first milestone I went into blender and sculpted a 3d mesh that resembled a character. Next I setup the mesh so it was attached to a rig which acted as bones. I used the rig that I had made for the character to position it in a way to be animated. I made animations for the character wich could play during the game when the character was running and jumping.
 [![First Milestone]![Milestone 1 gif](https://user-images.githubusercontent.com/87190446/128534754-52e9281e-41b7-4409-b12f-c937d0700579.gif){:target="_blank" rel="noopener"}
