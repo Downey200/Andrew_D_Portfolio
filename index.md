@@ -23,12 +23,12 @@ For my first milestone I went into blender and sculpted a 3d mesh that resembled
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6YkJCUyf84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Movement Code
-'''c#
+```c#
 //not fixed yet
-'''
+```
 
 # Camera Controller Code
-'''c#
+```c#
 //using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -59,4 +59,4 @@ public class CameraController : MonoBehaviour
         parent.Rotate(Vector3.up, mouseX);
     }
 }
-'''
+```
