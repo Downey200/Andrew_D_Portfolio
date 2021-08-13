@@ -6,11 +6,6 @@ My Project is to create a game using a game engone called unity. I am going to c
 | Andrew D | Trevor Day School | Engineering | Incoming Junior
 
 ![Headstone Image]()
-  
-# Final Milestone
-Work in Progress 
-
-[![Final Milestone]   {:target="_blank" rel="noopener"}
 
 # Second Milestone
 I imported the animation files and character from blender into Unity. I then opened a C# script and coded the character to be able to move fowards and backwards with the W and S keys. I then coded in gravity so the character would not be walking on air. Then I added so the player could rotate the character using their mouse. 
