@@ -20,3 +20,43 @@ I imported the animation files and character from blender into Unity. I then ope
 # First Milestone 
 For my first milestone I went into blender and sculpted a 3d mesh that resembled a character. Next I setup the mesh so it was attached to a rig which acted as bones. I used the rig that I had made for the character to position it in a way to be animated. I made animations for the character wich could play during the game when the character was running and jumping.
 [![First Milestone]![Milestone 1 gif](https://user-images.githubusercontent.com/87190446/128534754-52e9281e-41b7-4409-b12f-c937d0700579.gif){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q6YkJCUyf84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Movement Code
+'''c#
+//not fixed yet
+'''
+
+# Camera Controller Code
+'''c#
+//using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CameraController : MonoBehaviour
+{
+    //VARAIBLES
+    [SerializeField] private float mouseSensitivity;
+
+    //REFERENCES
+    private Transform parent;
+
+    private void Start()
+    {
+        parent = transform.parent;
+        Cursor.lockState = CursorLockMode.Locked;
+    }
+
+    private void Update()
+    {
+        Rotate();
+    }
+
+    private void Rotate()
+    {
+        float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
+
+        parent.Rotate(Vector3.up, mouseX);
+    }
+}
+'''
