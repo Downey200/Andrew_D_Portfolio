@@ -5,7 +5,7 @@ My Project is to create a game using a game engone called unity. I am going to c
 |:--:|:--:|:--:|:--:|
 | Andrew D | Trevor Day School | Engineering | Incoming Junior
 
-![Headstone Image]()
+![Headstone Image](![2021-08-13 (2)](https://user-images.githubusercontent.com/87190446/129377983-0c930fb8-2c53-43fe-ae39-e72ee9e2a1f1.png))
 
 # Second Milestone
 I imported the animation files and character from blender into Unity. I then opened a C# script and coded the character to be able to move fowards and backwards with the W and S keys. I then coded in gravity so the character would not be walking on air. Then I added so the player could rotate the character using their mouse. 
