@@ -17,6 +17,10 @@ For my first milestone I went into blender and sculpted a 3d mesh that resembled
 [![First Milestone]![Milestone 1 gif](https://user-images.githubusercontent.com/87190446/128534754-52e9281e-41b7-4409-b12f-c937d0700579.gif){:target="_blank" rel="noopener"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q6YkJCUyf84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Reflection
+One of the biggest challenges was creating player movement. Most times when I uploaded code I would get error messages that took some time to fix. I learned that in engineering perseverance is the most crucial part in achieving success.
+
+
 # Movement Code
 ```c#
 //using System.Collections;
